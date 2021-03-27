@@ -1,0 +1,134 @@
+.card-fields{
+	/*width: 20mm;*/
+	width: 20%;
+	height: 6%;
+	position: absolute;
+
+	/*height: 4mm;*/
+	/*font-size: 20px;*/
+	border:1px solid lightgrey;
+	padding: 0;
+	margin: 0;
+	/*vertical-align: middle;*/
+
+	color:darkslategrey;
+	text-align: center;
+}
+.card-fields:hover{
+	border:2px solid black;
+
+}
+
+.card-fields-print{
+	/*width: 20%;*/
+	padding: 2px;
+	height: 6%;
+	position: absolute;
+	/*border:1px solid black;	*/
+	
+}
+.card-fields-print img{
+	/*margin: 10px;*/
+}
+
+.grid-1{top: 0%;left: 0%;}
+.grid-2{top: 0%;left: 20%;}
+.grid-3{top: 0%;left: 40%;}
+.grid-4{top: 0%;left: 60%;}
+.grid-5{top: 0%;left: 80%;}
+
+.grid-6{top: 6%;left: 0%;}
+.grid-7{top: 6%;left: 20%;}
+.grid-8{top: 6%;left: 40%;}
+.grid-9{top: 6%;left: 60%;}
+.grid-10{top:6%;left: 80%;}
+
+.grid-11{top: 12%;left: 0%;}
+.grid-12{top: 12%;left: 20%;}
+.grid-13{top: 12%;left: 40%;}
+.grid-14{top: 12%;left: 60%;}
+.grid-15{top: 12%;left: 80%;}
+
+.grid-16{top: 18%;left: 0%;}
+.grid-17{top: 18%;left: 20%;}
+.grid-18{top: 18%;left: 40%;}
+.grid-19{top: 18%;left: 60%;}
+.grid-20{top: 18%;left: 80%;}
+
+.grid-21{top: 24%;left: 0%;}
+.grid-22{top: 24%;left: 20%;}
+.grid-23{top: 24%;left: 40%;}
+.grid-24{top: 24%;left: 60%;}
+.grid-25{top: 24%;left: 80%;}
+
+
+.grid-26{top: 30%;left: 0%;}
+.grid-27{top: 30%;left: 20%;}
+.grid-28{top: 30%;left: 40%;}
+.grid-29{top: 30%;left: 60%;}
+.grid-30{top: 30%;left: 80%;}
+
+
+.grid-31{top: 36%;left: 0%;}
+.grid-32{top: 36%;left: 20%;}
+.grid-33{top: 36%;left: 40%;}
+.grid-34{top: 36%;left: 60%;}
+.grid-35{top: 36%;left: 80%;}
+
+.grid-36{top: 42%;left: 0%;}
+.grid-37{top: 42%;left: 20%;}
+.grid-38{top: 42%;left: 40%;}
+.grid-39{top: 42%;left: 60%;}
+.grid-40{top: 42%;left: 80%;}
+
+/**********************************/
+
+.grid-41{top: 48%;left: 0%;}
+.grid-42{top: 48%;left: 20%;}
+.grid-43{top: 48%;left: 40%;}
+.grid-44{top: 48%;left: 60%;}
+.grid-45{top: 48%;left: 80%;}
+
+.grid-46{top: 54%;left: 0%;}
+.grid-47{top: 54%;left: 20%;}
+.grid-48{top: 54%;left: 40%;}
+.grid-49{top: 54%;left: 60%;}
+.grid-50{top:54%;left: 80%;}
+
+.grid-51{top: 60%;left: 0%;}
+.grid-52{top: 60%;left: 20%;}
+.grid-53{top: 60%;left: 40%;}
+.grid-54{top: 60%;left: 60%;}
+.grid-55{top: 60%;left: 80%;}
+
+.grid-56{top: 66%;left: 0%;}
+.grid-57{top: 66%;left: 20%;}
+.grid-58{top: 66%;left: 40%;}
+.grid-59{top: 66%;left: 60%;}
+.grid-60{top: 66%;left: 80%;}
+
+.grid-61{top: 72%;left: 0%;}
+.grid-62{top: 72%;left: 20%;}
+.grid-63{top: 72%;left: 40%;}
+.grid-64{top: 72%;left: 60%;}
+.grid-65{top: 72%;left: 80%;}
+
+
+.grid-66{top: 78%;left: 0%;}
+.grid-67{top: 78%;left: 20%;}
+.grid-68{top: 78%;left: 40%;}
+.grid-69{top: 78%;left: 60%;}
+.grid-70{top: 78%;left: 80%;}
+
+
+.grid-71{top: 84%;left: 0%;}
+.grid-72{top: 84%;left: 20%;}
+.grid-73{top: 84%;left: 40%;}
+.grid-74{top: 84%;left: 60%;}
+.grid-75{top: 84%;left: 80%;}
+
+.grid-76{top: 90%;left: 0%;}
+.grid-77{top: 90%;left: 20%;}
+.grid-78{top: 90%;left: 40%;}
+.grid-79{top: 90%;left: 60%;}
+.grid-80{top: 90%;left: 80%;}

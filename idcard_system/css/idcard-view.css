@@ -1,0 +1,69 @@
+/*.id-card-view *{
+	margin: 0;
+}*/
+*{
+	margin: 0;
+}
+.id-card{
+	
+	font-family: tahoma;
+	position: relative;
+	padding: 0;
+}
+.id-card-view{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	padding: 0;
+	position:relative;
+}		
+.id-card>div{
+	page-break-after:always;
+}
+.front-page,.back-page{
+
+
+	/*DARK ORANGE*/
+	/*color:#673800;*/
+
+	/*color: black;*/
+
+	/*display:none;*/
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.front-page{
+
+
+	/*DARK ORANGE*/
+	/*color:#673800;*/
+
+	/*color: black;*/
+
+	/*display:none;*/
+	/*justify-content:center;*/
+	/*flex-wrap:wrap;*/
+}
+.front-page-img,.back-page-img{
+	
+	/*FOR POTRAIT*/
+	/*width: 2in;
+	height: calc(3in + 2.67mm);*/
+
+	/*FOR LANDSCAPE*/
+	/*height: 2in;*/
+	/*width: calc(3in + 2.67mm);*/
+
+}
+
+@media print{
+	@page{
+		position:absolute;
+		margin: 0;
+		/*size:calc(3in) 2in;		*/
+		/*size:2in calc(3in + 2.67mm);*/
+		color:white;
+		font-size:8px;
+
+	}	
+}
